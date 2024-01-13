@@ -26,6 +26,8 @@ Trenitalia mobile app's developer adopted a security measure called SSL pinning,
 Trenitalia mobile app uses Retrofit to implement the api, both for data managing and UI porpuses, such as displaying a view populated with datas.
 
 # Support
+If you find a new endpoint or you want to contribute in any way opena a PR :)
+
 If you need support please open an issue or you can find me on telegram: [@edobal](https://t.me/edobal)
 
 I also accept donations, so I can keep this project up!
@@ -34,6 +36,4 @@ I also accept donations, so I can keep this project up!
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C8T2OJ6)
 
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=3C8G7V8DUWLQG
-
-I you find a new endpoit or you want to contribute in any way opena a PR :)
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=3C8G7V8DUWLQG)
