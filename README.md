@@ -18,7 +18,7 @@ This is a collection of unofficial API endpoints that have been reverse-engineer
 # Explore it with Postman
 https://documenter.getpostman.com/view/21209683/2s9YsNdW1t
 
-> This project is still a WIP, not every features are covered by the API, I'm implementing them little by little.
+> This project is still a WIP, not every endpoint is covered by the API, I'm implementing all of them little by little.
 
 This is a collection of unofficial API endpoints that have been reverse-engineered from Trenitalia's mobile app. Please note that these endpoints are not officially documented by Trenitalia, so use them at your own discretion and experiment with them.
 
