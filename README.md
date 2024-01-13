@@ -23,7 +23,7 @@ This is a collection of unofficial API endpoints that have been reverse-engineer
 ### Trenitalia's mobile app
 Following some informations about trenitalia's app.
 Trenitalia mobile app's developer adopted a security measure called SSL pinning, making impossible to intercept HTTPS traffic with a man-in-the-middle approach using a non rooted device.
-Trenitalia mobile app uses Retrofit to implement the api, both for data managing and UI porpuses, such as displaying a view populated with datas.
+Trenitalia mobile app uses Retrofit to implement the api, both for data managing and UI purposes, such as displaying a view populated with datas.
 
 # Support
 If you find a new endpoint or you want to contribute in any way opena a PR :)
