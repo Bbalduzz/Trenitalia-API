@@ -8,14 +8,14 @@
 <h4 align="center">Unofficial collection of trenitalia's private api endpoints.</h4>
 
 <p align="center">
-  <a href="###Explore it with Postman">Explore it with Postman</a> •
+  <a href="#Explore it with Postman">Explore it with Postman</a> •
   <a href="#dependencies">Trenitalia's mobile app</a> •
   <a href="#how-to-use">Support</a>
 </p>
 
 This is a collection of unofficial API endpoints that have been reverse-engineered from Trenitalia's mobile app. Please note that these endpoints are not officially documented by Trenitalia, so use them at your own discretion and experiment with them.
 
-### Explore it with Postman
+#Explore it with Postman
 https://documenter.getpostman.com/view/21209683/2s9YsNdW1t
 
 This is a collection of unofficial API endpoints that have been reverse-engineered from Trenitalia's mobile app. Please note that these endpoints are not officially documented by Trenitalia, so use them at your own discretion and experiment with them.
